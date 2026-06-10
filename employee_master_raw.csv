@@ -1,0 +1,16 @@
+emp_id,emp_name,email,department,salary,joining_date,city,phone
+1,Nikhil Kumar,nikhil@gmail.com,Data Engineering,85000,2024-01-15,Hyderabad,9876543210
+2,John Smith,john@gmail.com,Data Engineering,90000,2024-02-10,Bangalore,9988776655
+3,,sarah@gmail.com,Analytics,75000,2024-03-01,Chennai,9876541230
+4,Mike Ross,mikegmail.com,Data Engineering,95000,2024-02-20,Hyderabad,9988771122
+5,Rachel Green,rachel@gmail.com,,80000,2024-01-10,Pune,9988112233
+6,Harvey Specter,harvey@gmail.com,Management,-10000,2024-01-15,Mumbai,9988112255
+7,Donna Paulsen,donna@gmail.com,Management,120000,2024-01-15,Mumbai,
+8,Louis Litt,louis@gmail.com,Legal,70000,2024-15-01,Delhi,9988112277
+9,Nikhil Kumar,nikhil@gmail.com,Data Engineering,85000,2024-01-15,Hyderabad,9876543210
+10,Jessica Pearson,jessica@gmail.com,Management,250000,2024-01-05,Delhi,9988112288
+11,Robert Zane,robert@gmail.com,Legal,NULL,2024-01-11,Mumbai,9988112299
+12,  Alex King  ,alex@gmail.com,Analytics,78000,2024-04-01, Bangalore ,9988112200
+13,Mary Jane,mary@gmail.com,Analytics,76000,,Chennai,9988112211
+14,Tom Hardy,tom@gmail,HR,65000,2024-05-01,Hyderabad,9988112222
+15,Emma Stone,emma@gmail.com,HR,65000,2024-05-01,Hyderabad,9988112222
