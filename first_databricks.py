@@ -1,0 +1,1 @@
+print("''starting with the databricks project with configuring with git repo''")
